@@ -1,0 +1,26 @@
+1. test1.txt:
+
+   test1 tests __eq__ from class Vertex.
+
+   For cows:
+            same name  +      same position   =>      same cow
+            same name  + different positions  => different cows
+       different names +      same position   => different cows
+   For paintballs:
+            same name  +      same radius     +     same position         =>      same paintball
+            one of the above (name, radius, or position) are diifferent   => different paintballs
+   Note that different paintballs with the same name will not be counted as the same color.
+
+2. test2.txt
+  
+   The best result is the most number of times all cows being painted despite the colors
+   In test2:
+   Although triggering GREEN paintball will not trigger any other paintballs, the GREEN paintball will paint 4 cows and 1 time for each cow.
+   Although triggering any one of the three other paintballs will trigger the other two paintballs, they will only paint 1 cow for 3 times.
+   Therefore, the best choice is to trigger the GREEN paintball.
+
+
+3. test3.txt
+   
+   In test3, a tie occurs when choosing the optimal result => triggering PURPLE or BROWN are both the best choice with 3 total paint on cows.
+   The program will always show the same result unless we change the hash function of dictionary, which will change the order of traversing.

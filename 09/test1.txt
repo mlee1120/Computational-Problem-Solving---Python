@@ -1,0 +1,15 @@
+cow Mike 2 2
+cow Mike 2 2
+cow Mike 2 3
+cow Mike 3 2
+cow Amy 2 2
+cow Mike 10 10
+paintball ORANGE 6 6 6
+paintball ORANGE 6 6 6
+paintball ORANGE 6 6 4
+paintball ORANGE 6 5 6
+paintball ORANGE 5 6 6
+paintball ORANGE 5 5 6
+paintball ORANGE 5 5 5
+paintball BLACK 6 6 6
+paintball BLACK 10 9 2

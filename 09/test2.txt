@@ -1,0 +1,9 @@
+cow Daniel 1 1
+cow Ken 3 1
+cow Wendy 1 3
+cow Sam 3 3
+paintball GREEN 2 2 2
+cow Henry 10 10
+paintball BLACK 10 9 2
+paintball RED 10 11 2
+paintball PINK 9 10 2
